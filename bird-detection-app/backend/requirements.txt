@@ -1,0 +1,5 @@
+numpy
+librosa
+pyaudio
+matplotlib
+tflite-runtime
